@@ -1,1 +1,1 @@
-http://weeklyweb.info/2017/05/06/event-proxy/
+http://weeklyweb.info/2017/05/08/webpack1-to-webpack2/

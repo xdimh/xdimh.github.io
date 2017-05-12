@@ -3,6 +3,79 @@
 
     
   <url>
+    <loc>http://weeklyweb.info/2017/05/08/webpack1-to-webpack2/</loc>
+    <lastmod>2017-05-12T09:53:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>升级项目中的 webpack1.x 到 webpack2.x , 完善项目构建打包</title>
+        <pubTime>2017-05-08T08:50:17.000Z</pubTime>
+        
+        <tag>webpack </tag>
+         
+         
+           
+             
+              <breadCrumb title="构建工具" url="http://weeklyweb.info/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+          
+             
+              <breadCrumb title="前端大杂烩" url="http://weeklyweb.info/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/%E5%89%8D%E7%AB%AF%E5%A4%A7%E6%9D%82%E7%83%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://weeklyweb.info/2017/05/05/fe-event-loop/</loc>
+    <lastmod>2017-05-09T14:52:02.000Z</lastmod>
+    <data>
+        <display>
+        <title>JavaScript 和 NodeJS 事件循环</title>
+        <pubTime>2017-05-05T03:20:12.000Z</pubTime>
+        
+        <tag>JavaScript </tag>
+         
+        <tag>NodeJS </tag>
+         
+         
+           
+             
+              <breadCrumb title="NodeJS" url="http://weeklyweb.info/categories/NodeJS/"/>
+          
+             
+              <breadCrumb title="nodeclub源码学习" url="http://weeklyweb.info/categories/NodeJS/nodeclub%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://weeklyweb.info/2017/05/06/event-proxy/</loc>
+    <lastmod>2017-05-09T14:51:55.000Z</lastmod>
+    <data>
+        <display>
+        <title>eventproxy 源码解析</title>
+        <pubTime>2017-05-06T08:09:19.000Z</pubTime>
+        
+        <tag>JavaScript </tag>
+         
+        <tag>NodeJS </tag>
+         
+         
+           
+             
+              <breadCrumb title="NodeJS" url="http://weeklyweb.info/categories/NodeJS/"/>
+          
+             
+              <breadCrumb title="nodeclub源码学习" url="http://weeklyweb.info/categories/NodeJS/nodeclub%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://weeklyweb.info/2017/04/27/mongoose-tutorial-2/</loc>
     <lastmod>2017-05-08T14:40:45.000Z</lastmod>
     <data>
@@ -35,50 +108,6 @@
         <tag>Mongoose </tag>
          
         <tag>Mongodb </tag>
-         
-         
-           
-             
-              <breadCrumb title="nodeclub源码学习" url="http://weeklyweb.info/categories/nodeclub%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://weeklyweb.info/2017/05/05/fe-event-loop/</loc>
-    <lastmod>2017-05-08T14:38:25.000Z</lastmod>
-    <data>
-        <display>
-        <title>JavaScript 和 NodeJS 事件循环</title>
-        <pubTime>2017-05-05T03:20:12.000Z</pubTime>
-        
-        <tag>NodeJS </tag>
-         
-        <tag>JavaScript </tag>
-         
-         
-           
-             
-              <breadCrumb title="nodeclub源码学习" url="http://weeklyweb.info/categories/nodeclub%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://weeklyweb.info/2017/05/06/event-proxy/</loc>
-    <lastmod>2017-05-07T09:59:12.000Z</lastmod>
-    <data>
-        <display>
-        <title>eventproxy 源码解析</title>
-        <pubTime>2017-05-06T08:09:19.000Z</pubTime>
-        
-        <tag>NodeJS </tag>
-         
-        <tag>JavaScript </tag>
          
          
            
