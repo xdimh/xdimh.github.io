@@ -4,7 +4,7 @@
     
   <url>
     <loc>http://weeklyweb.info/2017/05/08/webpack1-to-webpack2/</loc>
-    <lastmod>2017-05-12T09:53:56.000Z</lastmod>
+    <lastmod>2017-05-13T03:27:16.000Z</lastmod>
     <data>
         <display>
         <title>升级项目中的 webpack1.x 到 webpack2.x , 完善项目构建打包</title>
@@ -33,9 +33,9 @@
         <title>JavaScript 和 NodeJS 事件循环</title>
         <pubTime>2017-05-05T03:20:12.000Z</pubTime>
         
-        <tag>JavaScript </tag>
-         
         <tag>NodeJS </tag>
+         
+        <tag>JavaScript </tag>
          
          
            
@@ -58,9 +58,9 @@
         <title>eventproxy 源码解析</title>
         <pubTime>2017-05-06T08:09:19.000Z</pubTime>
         
-        <tag>JavaScript </tag>
-         
         <tag>NodeJS </tag>
+         
+        <tag>JavaScript </tag>
          
          
            

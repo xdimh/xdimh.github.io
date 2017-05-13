@@ -100,8 +100,8 @@
 <p>在代码中,引入的样式资源,我们可以将样式代码分离到单独的 bundle 中，与应用程序的逻辑分离。 这加强了样式的可缓存性，并且使得浏览器能够并行加载应用程序代码中的样式文件，避免无样式内容造成的闪烁问题。通过 webpack 的 ExtractTextWebpackPlugin 完成样式的提取。具体的用法参看前面的 <strong>ExtractTextWebpackPlugin - 破坏性改动</strong>。</p>
 </li>
 </ul>
-<h4 id="2-按需加载"><a href="#2-按需加载" class="headerlink" title="2. 按需加载"></a>2. 按需加载</h4><pre><code>对于一个项目,像单页应用,展示首页时往往不需要将所有资源都加载到浏览器端,这样的好处就是能够是减少首屏渲染时间,所以 webpack 提供了相应的方法,让你指定代码分割点,可以实现对应的代码按需加载。这里我们通过 ``require.ensure(dependencies: String[], callback: function(require), errorCallback: function(error), chunkName: String)`` 来定义分割点。
-</code></pre><ul>
+<h4 id="2-按需加载"><a href="#2-按需加载" class="headerlink" title="2. 按需加载"></a>2. 按需加载</h4><p>对于一个项目,像单页应用,展示首页时往往不需要将所有资源都加载到浏览器端,这样的好处就是能够是减少首屏渲染时间,所以 webpack 提供了相应的方法,让你指定代码分割点,可以实现对应的代码按需加载。这里我们通过 <code>require.ensure(dependencies: String[], callback: function(require), errorCallback: function(error), chunkName: String)</code> 来定义分割点。</p>
+<ul>
 <li><p>dependencies </p>
 <p>定义callback执行依赖的模块。</p>
 </li>
@@ -245,9 +245,9 @@
         
         <tags>
             
-            <tag> JavaScript </tag>
-            
             <tag> NodeJS </tag>
+            
+            <tag> JavaScript </tag>
             
         </tags>
         
@@ -325,9 +325,9 @@
         
         <tags>
             
-            <tag> JavaScript </tag>
-            
             <tag> NodeJS </tag>
+            
+            <tag> JavaScript </tag>
             
         </tags>
         
