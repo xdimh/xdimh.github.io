@@ -3,6 +3,28 @@
 
     
   <url>
+    <loc>http://weeklyweb.info/2017/06/24/git-and-npm/</loc>
+    <lastmod>2017-06-25T07:28:31.000Z</lastmod>
+    <data>
+        <display>
+        <title>git 和 npm 常用命令汇总</title>
+        <pubTime>2017-06-24T05:12:17.000Z</pubTime>
+        
+        <tag>git </tag>
+         
+        <tag>npm </tag>
+         
+         
+           
+             
+              <breadCrumb title="前端大杂烩" url="http://weeklyweb.info/categories/%E5%89%8D%E7%AB%AF%E5%A4%A7%E6%9D%82%E7%83%A9/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://weeklyweb.info/2017/05/08/webpack1-to-webpack2/</loc>
     <lastmod>2017-05-13T03:27:16.000Z</lastmod>
     <data>
@@ -33,9 +55,9 @@
         <title>JavaScript 和 NodeJS 事件循环</title>
         <pubTime>2017-05-05T03:20:12.000Z</pubTime>
         
-        <tag>NodeJS </tag>
-         
         <tag>JavaScript </tag>
+         
+        <tag>NodeJS </tag>
          
          
            
@@ -58,9 +80,9 @@
         <title>eventproxy 源码解析</title>
         <pubTime>2017-05-06T08:09:19.000Z</pubTime>
         
-        <tag>NodeJS </tag>
-         
         <tag>JavaScript </tag>
+         
+        <tag>NodeJS </tag>
          
          
            
@@ -76,12 +98,12 @@
 
     
   <url>
-    <loc>http://weeklyweb.info/2017/04/27/mongoose-tutorial-2/</loc>
+    <loc>http://weeklyweb.info/2017/04/26/mongoose-tutorial-1/</loc>
     <lastmod>2017-05-08T14:40:45.000Z</lastmod>
     <data>
         <display>
-        <title>Mongoose 学习笔记二 — Query 和 Population</title>
-        <pubTime>2017-04-26T16:06:04.000Z</pubTime>
+        <title>Mongoose 学习笔记一 Model 和 Schema</title>
+        <pubTime>2017-04-25T16:50:12.000Z</pubTime>
         
         <tag>Mongoose </tag>
          
@@ -98,12 +120,12 @@
 
     
   <url>
-    <loc>http://weeklyweb.info/2017/04/26/mongoose-tutorial-1/</loc>
+    <loc>http://weeklyweb.info/2017/04/27/mongoose-tutorial-2/</loc>
     <lastmod>2017-05-08T14:40:45.000Z</lastmod>
     <data>
         <display>
-        <title>Mongoose 学习笔记一 Model 和 Schema</title>
-        <pubTime>2017-04-25T16:50:12.000Z</pubTime>
+        <title>Mongoose 学习笔记二 — Query 和 Population</title>
+        <pubTime>2017-04-26T16:06:04.000Z</pubTime>
         
         <tag>Mongoose </tag>
          

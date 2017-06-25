@@ -1,1 +1,1 @@
-http://weeklyweb.info/2017/05/08/webpack1-to-webpack2/
+http://weeklyweb.info/2017/06/24/git-and-npm/
