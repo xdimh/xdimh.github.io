@@ -96,6 +96,11 @@
 </ul>
 </li>
 </ol>
+<h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><ol>
+<li><a href="http://zengrong.net/post/1746.htm" target="_blank" rel="external">http://zengrong.net/post/1746.htm</a></li>
+<li><a href="http://zengrong.net/post/1746.htm" target="_blank" rel="external">http://zengrong.net/post/1746.htm</a></li>
+<li><a href="https://docs.npmjs.com/getting-started/scoped-packages" target="_blank" rel="external">https://docs.npmjs.com/getting-started/scoped-packages</a></li>
+</ol>
 ]]></content>
       
         <categories>
@@ -358,9 +363,9 @@
         
         <tags>
             
-            <tag> JavaScript </tag>
-            
             <tag> NodeJS </tag>
+            
+            <tag> JavaScript </tag>
             
         </tags>
         
@@ -438,9 +443,9 @@
         
         <tags>
             
-            <tag> JavaScript </tag>
-            
             <tag> NodeJS </tag>
+            
+            <tag> JavaScript </tag>
             
         </tags>
         
