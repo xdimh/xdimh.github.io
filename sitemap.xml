@@ -2,16 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.wfuny.com/2017/05/08/webpack1-to-webpack2/</loc>
+    <loc>https://blog.wfuny.com/2018/03/05/react-redux/</loc>
     
-    <lastmod>2018-02-27T14:32:09.000Z</lastmod>
+    <lastmod>2018-03-14T08:47:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/05/03/javascript-event-loop/</loc>
+    
+    <lastmod>2018-03-02T03:22:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/04/27/mongoose-tutorial-2/</loc>
+    
+    <lastmod>2018-03-02T03:22:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/04/26/mongoose-tutorial-1/</loc>
+    
+    <lastmod>2018-03-02T03:22:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/05/06/event-proxy/</loc>
+    
+    <lastmod>2018-03-02T03:21:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/05/05/fe-event-loop/</loc>
+    
+    <lastmod>2018-03-02T03:21:20.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.wfuny.com/2017/04/26/node-stream/</loc>
     
-    <lastmod>2018-02-27T14:31:46.000Z</lastmod>
+    <lastmod>2018-03-02T03:21:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/05/08/webpack1-to-webpack2/</loc>
+    
+    <lastmod>2018-03-02T03:13:30.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/04/26/base64/</loc>
+    
+    <lastmod>2018-02-28T02:48:34.000Z</lastmod>
     
   </url>
   
@@ -23,44 +72,9 @@
   </url>
   
   <url>
-    <loc>https://blog.wfuny.com/2017/05/05/fe-event-loop/</loc>
-    
-    <lastmod>2017-05-09T14:52:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.wfuny.com/2017/05/06/event-proxy/</loc>
-    
-    <lastmod>2017-05-09T14:51:55.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.wfuny.com/2017/04/26/mongoose-tutorial-1/</loc>
-    
-    <lastmod>2017-05-08T14:40:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.wfuny.com/2017/04/27/mongoose-tutorial-2/</loc>
-    
-    <lastmod>2017-05-08T14:40:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.wfuny.com/about/index.html</loc>
     
     <lastmod>2017-05-07T00:57:53.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.wfuny.com/2017/05/03/javascript-event-loop/</loc>
-    
-    <lastmod>2017-05-05T14:55:03.000Z</lastmod>
     
   </url>
   
@@ -117,13 +131,6 @@
     <loc>https://blog.wfuny.com/2017/04/26/gulp-plugin-develop/</loc>
     
     <lastmod>2017-05-03T05:53:16.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.wfuny.com/2017/04/26/base64/</loc>
-    
-    <lastmod>2017-05-03T05:53:11.000Z</lastmod>
     
   </url>
   

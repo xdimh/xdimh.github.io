@@ -1,1 +1,1 @@
-https://blog.wfuny.com/2017/06/24/git-and-npm/
+https://blog.wfuny.com/2018/03/05/react-redux/
