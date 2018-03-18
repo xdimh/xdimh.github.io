@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.wfuny.com/2018/03/10/webpack-packed-file-analysis/</loc>
+    
+    <lastmod>2018-03-18T07:47:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.wfuny.com/2017/04/26/redux-introduction/</loc>
+    
+    <lastmod>2018-03-14T15:23:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.wfuny.com/2018/03/05/react-redux/</loc>
     
     <lastmod>2018-03-14T08:47:20.000Z</lastmod>
@@ -96,13 +110,6 @@
     <loc>https://blog.wfuny.com/2017/04/26/regular-expression/</loc>
     
     <lastmod>2017-05-03T05:53:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.wfuny.com/2017/04/26/redux-introduction/</loc>
-    
-    <lastmod>2017-05-03T05:53:38.000Z</lastmod>
     
   </url>
   

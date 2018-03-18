@@ -1,1 +1,1 @@
-https://blog.wfuny.com/2018/03/05/react-redux/
+https://blog.wfuny.com/2018/03/10/webpack-packed-file-analysis/
