@@ -1,1 +1,1 @@
-https://blog.wfuny.com/2018/03/10/webpack-packed-file-analysis/
+https://blog.wfuny.com/2018/03/12/redux-source-code-read/
